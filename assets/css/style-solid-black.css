@@ -29,7 +29,8 @@ GENERAL STYLES
 body {
 font-family: 'Ubuntu', sans-serif;
 color: #fff;
-Background-Color:#000;
+background-image: url('../img/background.jpg');
+background-size: 100%;
 }
 
 section {
@@ -219,7 +220,7 @@ transition: all 0.5s ease-in-out;
 }
 
 .light-pricing:hover {
-background-color: transparent;
+background-color: rgba(255, 255, 255, 0.20);
 }
 
 .light-pricing ul {
