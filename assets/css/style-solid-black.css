@@ -29,8 +29,7 @@ GENERAL STYLES
 body {
 font-family: 'Ubuntu', sans-serif;
 color: #fff;
-background-image: url('../img/background.jpg');
-background-size: 100%;
+Background-Color:#000;
 }
 
 section {
